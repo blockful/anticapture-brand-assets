@@ -23,7 +23,7 @@
 |    Good constrast example   |      X = 1/2 of the logo’s height              |
 |------------|-----------------------------------------------------------------|
 | <img src="https://i.imgur.com/DOqtmVn.png" width="200">   | <p align="center">  <img src="https://i.imgur.com/eyZJGH4.png" width="200"> |
-| <img src="https://i.imgur.com/EMO1AFf.png" width="200">   | <p align="center">  <img src="https://i.imgur.com/9uYmUJX.png" width="120"> |
+| <img src="https://i.imgur.com/EMO1AFf.png" width="200">   | <p align="center">  <img src="https://i.imgur.com/9uYmUJX.png" width="200"> |
 
 <br>
 
